@@ -17,15 +17,7 @@ I started off with two datasets: one for `recipes` and one for `interactions`. I
 Head of Cleaned Data Frame:
 
 |   minutes |   n_steps |   n_ingredients |   rating |
-|----------:|----------:|----------------:|---------:|
-|        40 |        10 |               9 |        4 |
-|        45 |        12 |              11 |        5 |
-|        40 |         6 |               9 |        5 |
-|        40 |         6 |               9 |        5 |
-|        40 |         6 |               9 |        5 |
-
-|   minutes |   n_steps |   n_ingredients |   rating |
-|-----------|-----------|-----------------|----------|
+|:----------|:----------|:----------------|:---------|
 |        40 |        10 |               9 |        4 |
 |        45 |        12 |              11 |        5 |
 |        40 |         6 |               9 |        5 |
