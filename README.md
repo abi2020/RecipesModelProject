@@ -27,6 +27,7 @@ Head of Cleaned Data Frame:
 ## Baseline Model
 
 Classification Report for Train Data:
+
 |   precision |    recall |   f1-score |   support |
 |------------:|----------:|-----------:|----------:|
 |    0.703252 | 0.0745047 |   0.134735 |      2322 |
@@ -36,6 +37,7 @@ Classification Report for Train Data:
 |    0.791182 | 0.991528  |   0.880097 |    135619 |
 
 Classification Report for Test Data:
+
 |   precision |     recall |   f1-score |   support |
 |------------:|-----------:|-----------:|----------:|
 |   0.0793651 | 0.00912409 | 0.0163666  |       548 |
