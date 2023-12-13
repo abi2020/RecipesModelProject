@@ -15,6 +15,7 @@ By Abishek Siva
 I started off with two datasets: one for `recipes` and one for `interactions`. I then merged the two dataframes using the `id` feature. I then replaced all missing values with `0`. I also set the index of the dataframe to be the recipe `id`. Finally, I only selected the columns that I will be using in the analysis, which is `minutes`, `n_steps`, `n_ingredients`, and `rating`.
 
 Head of Cleaned Data Frame:
+
 |   minutes |   n_steps |   n_ingredients |   rating |
 |----------:|----------:|----------------:|---------:|
 |        40 |        10 |               9 |        4 |
