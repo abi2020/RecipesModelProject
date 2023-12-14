@@ -112,3 +112,5 @@ Classification Report for Test Data:
 **Test Statistic**: Absolute difference in the precisions
 
 <iframe src="assets/proj5.html" width=800 height=600 frameBorder=0></iframe>
+
+We can see from the above graph, that the observed difference in precision is much lower than when we permuted the data. I calculated a p-value of 0.0, which falls under our threshold of 0.05. Thus, we reject the null hypothesis and predict that there is a difference in how precise our model is for 5 star versus 1 star recipes. 
